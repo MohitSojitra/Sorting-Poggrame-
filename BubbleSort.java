@@ -1,3 +1,8 @@
+//best case = O(n)
+//avearge case = O(n*n)
+//worst case = O(n*n)
+
+
 import java.util.Scanner;
 public class BubbleSort
 {
